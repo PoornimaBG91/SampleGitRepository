@@ -1,1 +1,2 @@
-modulea
+Component A
+new line added
